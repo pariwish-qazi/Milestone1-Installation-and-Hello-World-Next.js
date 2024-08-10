@@ -1,0 +1,4 @@
+I have completed Senior Student Milestone 1 Assignment of Installation of next.js,
+Environment Setup: Successfully installed Node.js and set up a new Next.js project.
+Functionality: The "Hello Bisma Qazi Here" page is displayed correctly.
+Sir AMEEN ALAM'S "Learn Next.js" GPT a customized GPT specificall designed for help in learning Next.js and react.
